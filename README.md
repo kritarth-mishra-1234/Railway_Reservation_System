@@ -1,8 +1,5 @@
 
 # Railway Ticket Booking System
-## CS301 Project
-***
-
 ## File Structure
 ***
 RAILWAY_TICKET_BOOKING_SYSTEM
