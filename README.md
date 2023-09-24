@@ -2,7 +2,6 @@
 # Railway Ticket Booking System
 ## CS301 Project
 ***
-Submitted by: Yash Jain (2019EEB1208) , Tushar Jain (2019EEB1207)
 
 ## File Structure
 ***
